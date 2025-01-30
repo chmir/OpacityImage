@@ -33,6 +33,13 @@
 ![image](https://github.com/user-attachments/assets/62d7cde3-ab65-43eb-900b-a5b1c5e7449d)
 ### 이 스크롤바를 사용해서 불투명도를 조정할 수 있습니다. 
 
+# 간단 사용법
+![image](https://github.com/user-attachments/assets/e268c515-b234-450e-88dd-e5d2b9fb1b70)
+#### 먼저, Add Layer 버튼을 선택하여 배경으로 사용할 사진을 레이어1에 둡니다. 
+![image](https://github.com/user-attachments/assets/4ffb0bcf-8e46-4879-b645-f13ef3b61ea4)
+#### 그다음 귀여운 고양이를 추가하셔서 아래의 스크롤바로 투명도를 설정하면 귀여운 스페이스캣이 완성됩니다. 
+![image](https://github.com/user-attachments/assets/17d6d3b2-e398-400b-afb7-574d8bdde4d0)
+#### 사진 저장은 Save Composite 버튼을 눌러서 하시고, 상단에 지정해 놓은 width, height가 저장할 이미지의 px 길이가 됩니다. 
 
 # 여담 
 ### 이 소스코드는 어... 그러니까 오픈소스입니다. 제가 이런 걸 처음 올려봐서 이렇게 말하는 게 맞을지는 모르겠는데. 
